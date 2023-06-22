@@ -11,7 +11,8 @@ My approach to developing programs starts with planning my code. Determining the
 
 # What does it mean to be a good team member in software development?
 A good team member in software development consists of somebody that is empowered to do thier part constently. Empowerment generates high quality traits that are needed to be a good team member. Being highly motivated is a traited that cannot be demanded so through empowerment it has a better chance to manifest into that. Being open, honest, and respectful with team members and customers lead to a strong team bond and relationships with the customer. Knowing your own strengths and weaknesses and the ability to ask for help are also important to being a good team member. This builds a team up when they work together and know each other on a level where they know what values each team member bring to the table and how they can work around the weaknesses to maximizes there product in a healthy and affective way. This also creates accountability. It's much easier to ignore your accountability when you haven't build a positive relationship with those around you that you are accountable to. 
-
+# 
+# 
 # 210_Programming Languages (CornerGrocer Project)
 # 
 # Summarize the project and what problem it was solving.
