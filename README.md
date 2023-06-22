@@ -1,7 +1,7 @@
 # Cplusplus-Program
 
-CS250_Software_Development_LifeCycles (Final Project)
-
+# CS250_Software_Development_LifeCycles (Final Project)
+# 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 Through communication with the user, the user needs are established on what the goal thier software is to do. With this information you then need to break down the goal into small incremental portions that can be produced. These incremental portions of software are then represented by a user story. The user story is a single task that is to be solved with working software. The user story describes the functionality of the task and what the acceptance criteria is for implementing it is. Through collaboration with the user, these stories are created keeping the end goal in mind while keeping the user stories inline with the user's needs versus wants. Communication with the user is the most effective way to interpret thier needs. The more you talk about it the more accurate you will be able to create these user stories. The more questions you ask in regards to functionality, the more the product will represent thier needs.
 
