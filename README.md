@@ -1,5 +1,7 @@
 # Cplusplus-Program
 
+# CS250_Software_Development_LifeCycles
+
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 Through communication with the user, the user needs are established on what the goal thier software is to do. With this information you then need to break down the goal into small incremental portions that can be produced. These incremental portions of software are then represented by a user story. The user story is a single task that is to be solved with working software. The user story describes the functionality of the task and what the acceptance criteria is for implementing it is. Through collaboration with the user, these stories are created keeping the end goal in mind while keeping the user stories inline with the user's needs versus wants. Communication with the user is the most effective way to interpret thier needs. The more you talk about it the more accurate you will be able to create these user stories. The more questions you ask in regards to functionality, the more the product will represent thier needs.
 
@@ -8,3 +10,23 @@ My approach to developing programs starts with planning my code. Determining the
 
 # What does it mean to be a good team member in software development?
 A good team member in software development consists of somebody that is empowered to do thier part constently. Empowerment generates high quality traits that are needed to be a good team member. Being highly motivated is a traited that cannot be demanded so through empowerment it has a better chance to manifest into that. Being open, honest, and respectful with team members and customers lead to a strong team bond and relationships with the customer. Knowing your own strengths and weaknesses and the ability to ask for help are also important to being a good team member. This builds a team up when they work together and know each other on a level where they know what values each team member bring to the table and how they can work around the weaknesses to maximizes there product in a healthy and affective way. This also creates accountability. It's much easier to ignore your accountability when you haven't build a positive relationship with those around you that you are accountable to. 
+
+# 210_Programming Languages (CornerGrocer Project)
+
+# Summarize the project and what problem it was solving.
+The problem for this project was inventory tracking. Corner Grocer wanted a way to track what was sold each day so they could reorganize thier store layout to maximize the effectiveness for the most items sold. The software was to track the daily items sold of each produce, generate a list, then write this list to a file for a backup. It also allows the user to look up an items sales for the day individually.
+
+# What did you do particularly well?
+In this project, I was able to generate the appropriate list and validate user input particulary well. Creating functions that helped validate input for the menu, and to allow users to only need correct spelling of the item regardless of case. 
+
+# Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+I believe I could possibly enhance my code by reducing the number of times I needed to open and close the "CS210_Project_Three_Input_File.txt" file. I hadn't tried this, it was more of an afterthought once I had turned it in for grading. It would reduce the lines of code written, making modification within the seperate functions much easier to accomodate. Possibly, a seperate function that just opened and read the file could be created and used in place of these portions of code to improve the efficiency as an alternative way.  
+
+# Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+PrintList() function was the most challenging to write. Using Maps was a new concept in which I utilized the Zybooks and several YouTube coding tutorials to understand how it works and how to implement it. I have added several YouTube Coding Tutorial Channels for multiple languages to my Subscribers list. I have also added several website resources for C++ such as https://google.github.io/styleguide/cppguide.html, https://www.tutorialspoint.com/cplusplus/index.htm, and https://cplusplus.com/ to name a few.
+
+# What skills from this project will be particularly transferable to other projects or course work?
+The most valuable skills gained from this project was gaining more experience with OOP and the application of it through classes. It has become much easier to look at a problem and then transforming that into actually coding. Determining classes and functions that are appropriate along with using header files, multiple cpp. files and including a main cpp. allowed me to gain valuable insight on what the common practice and syntax of programming are. The thinking process involved in the transfermorming customer needs into working software is also something I can use on other projects and hopefully continously refine to improve effectiveness and efficiency of the final program.   
+
+# How did you make this program maintainable, readable, and adaptable?
+This program is maintanable, readable, and adaptable due to the effective use of the CornerGrocer class and the functions within that class. Having functions that can be easily modified without changing the entire programs flow allows for both an effective maintanable and adaptable program. Having seperate files such as the CornerGrocer.h and CornerGrocer.cpp kept the program very clear and readable and minimized the code seen in the main.cpp. It was organized in a way that each menu option had it's own function that ran it which would allow for new menu options to be added or removed rather simple and wouldn't affect the functionality of the program as well. It also means that each menu option can be independently modified without loosing functionality.  
