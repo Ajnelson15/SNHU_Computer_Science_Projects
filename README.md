@@ -1,8 +1,9 @@
 # Cplusplus-Program
-# 
+ 
 # 
 # CS230_Operating_Systems_The_Gaming_Room
 #
+
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The Gaming room was a client that had asked for help expanding thier web-based game, Draw It or Lose It, onto various operating systems. Specifically Mac OS, Linux, Windows, Android, and iOS. The games design was to slowly reveal pictures in a certain time frame and have teams with multiple players trying to guess it before time expired. The software they wanted needed to utilize a web based application that served multiple operating systems. This was accomplished by implementing a client-server pattern with a three-tier architecture that consisted of client, business, and data layers. The business layer seperated the client and data while utilizing http standards and allowing the integration of multiple platforms through a RESTful API approach.
 
@@ -21,7 +22,8 @@ It was important when interpreting the users needs that you clearly identify the
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 Understandin the users need and then using research was key to making this determination. There is so many resources in terms of software design that it is important to become more knowledgeable in the various techniques utilized and learn the strengths and weaknesses of each so that when presented with similar applications you can make better software design decisions. Technology is constantly changing so staying up to date with current operating systems would be beneficial.   
 
-
+#
+#
 # CS250_Software_Development_LifeCycles (Final Project)
 # 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
