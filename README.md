@@ -1,5 +1,18 @@
 # Cplusplus-Program
  
+#
+# CS320_Software_Test_Automation&_QA
+#
+
+# How can I ensure that my code, program, or software is functional and secure?
+Through proper testing you can ensure that your code, program, or software is functional. Testing early and often to catch issues as they arise. Having clear requirements and a definition of "Done" lead to proper unit tests and establish what and how tests should proceed. Prioritizing your tests to eliminate the most severe risks since exhaustive testing is impossible.
+
+# How do I interpret user needs and incorporate them into a program?
+When interpreting user needs and incorporating them into a program I break down each need into simple tasks. Each of these task perform a portion of the "need" and must be tested properly to ensure the needs are being met. As the project grows it is important to continuously test that these needs are being met.
+
+# How do I approach designing software?
+Generally I start with a general approach using a flowchart to capture the entirety of the softwares design. Then I break it down into detailing each object within the flowchart describing requirements. From there each requirement is broken down into specific paramaters that define the requirement. From there on everything is incremental. The coding and testing happen together often for each specific parameter. I try to keep my code well organized, clean, and minimal for easier maintenance and refactoring. 
+
 # 
 # CS230_Operating_Systems_The_Gaming_Room
 #
