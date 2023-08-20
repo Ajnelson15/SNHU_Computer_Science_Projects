@@ -1,6 +1,27 @@
 # Cplusplus-Program
 # 
 # 
+# CS230_Operating_Systems_The_Gaming_Room
+#
+# Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The Gaming room was a client that had asked for help expanding thier web-based game, Draw It or Lose It, onto various operating systems. Specifically Mac OS, Linux, Windows, Android, and iOS. The games design was to slowly reveal pictures in a certain time frame and have teams with multiple players trying to guess it before time expired. The software they wanted needed to utilize a web based application that served multiple operating systems. This was accomplished by implementing a client-server pattern with a three-tier architecture that consisted of client, business, and data layers. The business layer seperated the client and data while utilizing http standards and allowing the integration of multiple platforms through a RESTful API approach.
+
+# What did you do particularly well in developing this documentation?
+In the development of this documentation I think that I conducted my research particularly well. My experience with operating systems have always utilized Windows OS. This made it hard for me to be objective at first because I knew Windows was capable of this and I could have simply chosen that based on that knowledge, but through researching the other operating systems it became clear to me that Windows and Linux both had the capabilities of being an appropriate OS for this application. At the end it came down to the customability and security of Linux that made this my final decision. My hesitation in this was due to the expertise needed in the Linux OS and use of the command prompt. The research emphasized the importance of understanding these OS and how to utilize them best for there intended purpose. 
+
+# What about the process of working through a design document did you find helpful when developing the code?
+The design document helps in the development of code by showing the different portions of application. In this case it was a three-tier design in which there was a clien, business, and data layer. Each of these are different portions and serve thier own purpose to the design. Each of them follow certain architecture styles and come with thier standards. This document really helped in understanding where and how to implement the communications between client and server setup. 
+
+# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+Design Constraints would be an area that I could improve on. Some of my descriptions are vague and could better show how the constraint applied to this specific scenario. 
+
+# How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+It was important when interpreting the users needs that you clearly identify there needs and how that relates in terms of software design. What resources does the users needs each include and what architectures are best at providing those needs. In this scenario it was clear that this application was intended to be web-based and serve multiple users at once. Understanding thier needs and then incorporating them into an architecture that fits thier needs and provides the proper security and backup measures needed are all importanted when designing software to produce the most value to the customer. 
+
+# How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+Understandin the users need and then using research was key to making this determination. There is so many resources in terms of software design that it is important to become more knowledgeable in the various techniques utilized and learn the strengths and weaknesses of each so that when presented with similar applications you can make better software design decisions. Technology is constantly changing so staying up to date with current operating systems would be beneficial.   
+
+
 # CS250_Software_Development_LifeCycles (Final Project)
 # 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
