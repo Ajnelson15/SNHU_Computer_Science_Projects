@@ -1,5 +1,24 @@
 # Cplusplus-Program
- 
+
+#
+# CS300_DSA_Analysis_and_Design
+#
+
+# What was the problem you were solving in the projects for this course?
+The problem being solved was to create a data structure that holds course information such as class number, class name, and class pre-reqiusiutes choosing a vector, hash table, or binary tree structure. It needed to be able to load a csv file, print an alphanumeric list of classes, and print a course based on searching for class number.
+
+# How did you approach the problem? Consider why data structures are important to understand.
+In my approach, I narrowed it down to which one would be the most efficient based on run-time analysis, memory usage, and functions associated with each data structure such as insert, search, and delete functions. When considering the data being utilized is a list of all courses available for ABC University, it seems that the data size would be rather consistent. Run-time analysis was equal accross the board at O(n) so I looked at memory usage and insert, search, and delete functions. Although vector data structure would provide better speeds it would utilize more memory. I determined a hash table would be the most efficient considering you could manage the memory usage to be minimal compared to the other data structures. 
+
+# How did you overcome any roadblocks you encountered while going through the activities or project?
+Throughout this project I ran into several struggles, but I struggled most with input validation and utilizing a string with numbers and letters as a key for hashing. It really took breaking things down into little pieces, utilizing print statements for confirmations, and researching C++ libraries for methods.  
+
+# How has your work on this project expanded your approach to designing software and developing programs?
+Working on this project opened my eyes to many of the things that should be considered when picking a data structure to store your information. You need to not only consider the data you are using, how the data will be used, how consistent the data size will be, the memory usage, and how the run-time will be affected. You must also consider future goals of the software. Will function be added or data changed? This could also be a determining factor for choosing an appropriate data type. 
+
+# How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+My work on this project has helped me understand more of what it means to write a program that is maintainable, readable, and adaptable. By understanding data structures and the pros and cons of each allow you to design a program that is more apt to stay maintainable, readable, and adaptable. You have to analyse the functionality of it at many different levels such as memory, speed, and user interactions all while considering future intentions to ensure the maintainability, readability, and adaptability of the software is preserved.
+
 #
 # CS305_Software_Security
 #
