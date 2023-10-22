@@ -1,6 +1,43 @@
 # Cplusplus-Program
  
 #
+# CS305_Software_Security
+#
+
+# Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+Artemis Financial wants to modernize their operations. As a crucial part of the success of their custom software, they also want to use the most current and effective software security. Artemis Financial has a RESTful web application programming interface (API). They are seeking Global Rain’s expertise about how to protect the organization from external threats. As part of the team, you must examine Artemis Financials' web-based software application to identify any security vulnerabilities.
+
+# What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+When looking for client's softwary security vulnerabilities, I was able to identify many of the 7 areas of vulnerabilities by examining the software, using previous knowledge, and researching unkown bits of code to confidently identify vulnerabilities. Input validation, cryptography, and code error stood out the most and was easily identified. There is great value in applying industry standard best practices for secure coding to the company’s well-being. Secure coding not only protects the client from possible threats, but it also protects the company. Depending on the circumstances, consequences could be as small as a slap on the wrist or fines and possibly worse. People's lives could be at risk due to insecure software. It is your job as a developer to consider the consequences of insecure coding for each and every project individually and effectively secure them from happening. Whether it’s a slap on the wrist, losing your job, costing the company financially, bankruptcy, reputation, or loss of life, you need to apply industry standard best practices.
+
+# What part of the vulnerability assessment was challenging or helpful to you?
+Secure API interactions were the most challenging portion of the vulnerability assessment. Understanding the sequence of events that occur during the "handshake" took some extra research to paint a clear picture. It was very helpful, as I know it is a fundamental skill of utilizing network communications for software development.
+
+# How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+After reviewing Artemis Financials’ web-based application the following steps should be taken to mitigate the identified security vulnerabilities documented above.
+
+-	Update dependencies as recommended in the Static Testing portion of this document.
+-	Add access control that includes user authentication, authorization, and configuration settings within the program.
+-	Access control should be implemented using the principle of least privileged for authorization 
+-	Authentication should be at minimum a 2-factor process due to the sensitive data involved and should be a single site wide component when implementing it.
+-	Secure Error handling should be implemented in all classes.
+-	Input Validation should be implemented in all classes. Whitelist techniques should be applied for acceptable input.
+-	API should be secured and designed for user interaction within the program.
+-	All variables should be initialized before usage
+-	Implement a logging scheme to monitor program details. (Login attempts, dates, times, errors, etc.)
+
+I believe with more experience and deeper understanding of the enormous amount of resources available for software development, assessing vulnurability techniques will evolve greatly.
+
+# How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+Several things need to be considered when working towards a functional and secure applications. I systematically utilized the Vulnerability Assessment process flow, incorporated static testing, and utilized manual code review to work through each of the main areas looking for vulnerabilities. After refactoring, I repeated the process making sure to pay attention to new dependencies introduced and keeping code error free. 
+
+# What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+There were many tools/coding practices used that will be helpful to me in the future. Maven-dependancy-check is one that will be useful in the future along with implementing CA's and utilizing both SHA-256 and AES-256 as a way of cryptography for hashing and encryption utilized in software security layers. Message digest and java crypto libraries are also resources that could be utilized in future assignments.
+
+# Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+The knowledge gained from the work done in this course will be most valuable. Being able to present your work and to knowledgeably communicate the areas of the program that produce security vulnerabilities will be extremely beneficial given the importance of secure coding. Having an understanding of how to implement software with security in mind will only strengthen my value as an employee. Understanding that it takes continous growth and learning to stay on top of current security issues and presenting that to an employer shows a valuable character trait. In order to be a master at something, one must always be a student.
+
+#
 # CS320_Software_Test_Automation&_QA
 #
 
