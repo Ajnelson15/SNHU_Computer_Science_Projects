@@ -1,6 +1,18 @@
 # Cplusplus-Program
 
 #
+# CS330_Comp_Graphics_and_Visualization
+#
+# How do I approach designing software?
+As I worked through this course, one of the things that became very obvious was the importance of abstraction and utilizing functions outside of the main. The project in this course was much larger than the programs I have had thus far academically. As a result, many of the concepts learned required more lines of code in the main along with many more files. As I worked through the material I became more comfortable with how the functions and pointers worked together to create an object oriented program in which tasks were broken down appropriately and could be reused in other programs. These functions also kept it organizeds and easy to read which is something I want to incorporate more effectively in my designing future.
+
+# How do I approach developing programs?
+When I approach developing programs, I like to think about all the tasks that need to be achieved and identify them. Then I can work towards creating functions that can be utilized to minimize the code being repeated throughout the program. I like to keep things organized and clean from bottom to top. The further I get into this degree, the more effective I have become at working towards those key components. 
+
+# How can computer science help me in reaching my goals?
+Computer Science will help me reach my goals in several ways. Although I am unsure of my specific field of interest in regards to software development, I know that this degree opens the door to many oppurtunities in the future. Almost everything I have learned up to this point has been new and has forced me to aquire better habits in terms of studying, researching, and developmening the needed skills. I have been challenged in ways that I have never experienced and have continued to work through the tough times. This resilence will greatly increase my chances of reaching my goals. 
+
+#
 # CS300_DSA_Analysis_and_Design
 #
 
