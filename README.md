@@ -1,8 +1,25 @@
 # Cplusplus-Program
 
+
+#
+# CS340_Client_Server_Development
+#
+
+# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+Writing programs that are maintainable, readable, and adaptable by following industry standards best practices. Keeping a consistent coding style that follows coding standards and naming conventions. Writing modular code by breaking down code into modules or functions than can be utilized in multiple applications. Adding comments to explain sections of the code they may be complex, and testing code from the beginning to make sure bugs are caught early and keep regressions to a minimal. Utilizing the CRUD Python module was an example of developing a program that is maintainable, readable, and adaptable. It is a module that can be used with MongoDB's CRUD operations. This program can be used with any application that requires the use of MongoDB as thier database, giving it the ability to implement this module in many applications in the future.  
+
+# How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+When approaching problems as a developer prior to this course, I only had to consider the backend portion of the programs. The approach in this scenario was much different due to the user interface layer that was added with Dash. Both functionality and user experience needed to be considered in the development. My approach to Mr. Salvares requirements was intentional. I first built the functionality into the program, and then incorporated the visual design of the dashboard. In the future, I would like to incorporate techniques that would improve the speed and efficiency of the software by using more indexing or aggregation methods.  
+
+# What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientist study and work with many different aspects of computer technology. They use computer technology to solve problems. This kind of work is helpful to all kinds of people from coorporate business owners to small business owners and everbody in between. Computers give people the ability to accomplish large tasks in just a fraction of the time. In this case, The Rescue and Training Center is able to fast track the data analysis process of finding the desired breed for certain rescue types in a matter of seconds. Not only will this save in resources needed to manually analyze the data, but it will also expediate the process of locating a preferred dog, training them, and making them active duty. This is all due to the efficient retrievel and analysis of the data recieved from the animal shelters. 
+
 #
 # CS330_Comp_Graphics_and_Visualization
 #
+
 # How do I approach designing software?
 As I worked through this course, one of the things that became very obvious was the importance of abstraction and utilizing functions outside of the main. The project in this course was much larger than the programs I have had thus far academically. As a result, many of the concepts learned required more lines of code in the main along with many more files. As I worked through the material I became more comfortable with how the functions and pointers worked together to create an object oriented program in which tasks were broken down appropriately and could be reused in other programs. These functions also kept it organizeds and easy to read which is something I want to incorporate more effectively in my designing future.
 
