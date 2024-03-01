@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# SNHU Computer Science Courses
 
 
 #
