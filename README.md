@@ -2,6 +2,30 @@
 
 
 #
+# CS_350_Emerging_Sys_Arch_&_Tech
+#
+
+# Summarize the project and what problem it was solving.
+The Thermostat Project was designed to control a temperature system using an embedded processor. It reads the temperature, lets the user change the temperature setting, and communicates the status to a computer.
+
+The SOS Messaging Project was designed to send SOS and OK messages using LEDs on an embedded system. The project required the controlling of the LEDs and responding to button presses to toggle between messages.
+
+# What did you do particularly well?
+I was good at organizing the code to keep different parts of the system working smoothly together. Using state machines for handling both projects' tasks was a solid approach, making the systems reliable.
+
+# Where could you improve?
+I could improve in systematically troubleshooting problems that arise during development. Sometimes, I moved too quickly to fix issues without fully understanding the root cause. By taking a more methodical approach to troubleshooting—such as isolating variables and testing in smaller increments—I could resolve issues more efficiently and prevent similar problems from occurring in the future
+
+# What tools and/or resources are you adding to your support network?
+I'm planning to use more debugging tools to better understand how the hardware interacts with the software. I also want to learn more about real-time operating systems (RTOS) to make my systems faster and more reliable.
+
+# What skills from this project will be particularly transferable to other projects and/or course work?
+The skills I learned in managing real-time tasks, using state machines, and interfacing with hardware will be useful in many other projects, especially those involving embedded systems or hardware-software integration.
+
+# How did you make this project maintainable, readable, and adaptable?
+I made sure to keep the code organized and well-documented. Each part of the system is in its own function, which makes it easy to understand and update. I also added comments throughout the code to explain what each part does, making it easier for someone else to work on the project later
+
+#
 # CS340_Client_Server_Development
 #
 
