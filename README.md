@@ -16,7 +16,7 @@ The SOS Messaging Project was designed to send SOS and OK messages using LEDs on
 I was good at organizing the code to keep different parts of the system working smoothly together. Using state machines for handling both projects' tasks was a solid approach, making the systems reliable.
 
 # Where could you improve?
-I could improve in systematically troubleshooting problems that arise during development. Sometimes, I moved too quickly to fix issues without fully understanding the root cause. By taking a more methodical approach to troubleshooting—such as isolating variables and testing in smaller increments—I could resolve issues more efficiently and prevent similar problems from occurring in the future
+I could improve in systematically troubleshooting problems that arise during development. Sometimes, I moved too quickly to fix issues without fully understanding the root cause. By taking a more methodical approach to troubleshooting such as isolating variables and testing in smaller increments. I could resolve issues more efficiently and prevent similar problems from occurring in the future
 
 # What tools and/or resources are you adding to your support network?
 I'm planning to use more debugging tools to better understand how the hardware interacts with the software. I also want to learn more about real-time operating systems (RTOS) to make my systems faster and more reliable.
