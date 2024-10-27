@@ -1,6 +1,26 @@
 # SNHU Computer Science Courses
 
 
+#
+# CS_255_System_Analysis_and_Design
+#
+
+
+# Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The client, Liam (Owner) and Ian (IT Officer) of DriverPass, wanted a comprehensive online driver training system to help students better prepare for DMV tests. They identified that 65% of students fail their driving tests due to outdated study materials. They requested a cloud-based system that would offer online classes, practice tests, and in-person driving lessons, along with a scheduling system to manage these services. The system needed to handle different user roles, from students to administrators, while maintaining security and staying current with DMV requirements.
+
+# What did you do particularly well?
+I believe I particularly excelled in designing the security features and user access controls. The security implementation is thorough yet user-friendly, with features like the three-attempt lockout system and two-factor authentication protecting users without making the system difficult to use. I also effectively designed the booking system to prevent double-booking of instructors and vehicles while keeping it simple for students to schedule lessons.
+
+# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I could revise one aspect, I would enhance the offline capabilities of the system. Currently, the system is heavily dependent on internet connectivity. I would improve it by adding features that allow students to download practice materials and continue studying even without an internet connection, then sync their progress when they reconnect. This would make the system more accessible to all users, regardless of their internet reliability.
+
+# How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+I interpreted user needs by carefully analyzing the different types of users (students, instructors, staff, administrators) and their specific requirements. For students, this meant easy access to training materials and scheduling. For staff, it meant efficient tools for managing bookings and student information. For administrators, it meant comprehensive oversight and control capabilities. Understanding user needs is crucial because the system's success depends entirely on how well it serves its users. Even the most technically sophisticated system will fail if users find it difficult or frustrating to use.
+
+# How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+My approach to designing software systems begins with breaking down complex problems into smaller, manageable pieces. Rather than jumping straight into solutions, I first spend time understanding the overall goals and what success looks like for different users. This helps avoid building unnecessary features while ensuring we include everything that's truly important. Early planning also helps identify potential challenges before they become significant problems.
+Throughout the design process, I believe in starting simple and adding complexity only where needed. This means building core features first, testing them thoroughly, and then carefully adding more advanced functions. I always consider how the system might need to grow or change in the future, making sure the design is flexible enough to adapt to new requirements. From working on this project, I've learned that good system design isn't just about technical solutions. It's about creating something that feels natural and simple to use, even when the underlying system is complex. This balanced approach helps create systems that work well both today and in the future.
 
 
 #
