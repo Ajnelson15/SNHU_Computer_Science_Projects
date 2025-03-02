@@ -1,5 +1,22 @@
 # SNHU Computer Science Courses
 
+#
+# CS_370_Current_Emerging_Trends_In_CS_2025
+#
+
+# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+I was given starter code that included the maze environment (TreasureMaze.py) and GameExperience.py, which stored past moves so the AI could learn from them. My job was to create the deep Q-learning algorithm to train the AI. I built the neural network model, set up the training process, and implemented experience replay, Q-value updates, and an exploration-exploitation strategy. My code allowed the AI to improve over time and successfully find the treasure.
+
+# Connect your learning from throughout this course to the larger field of computer science:
+# What do computer scientists do and why does it matter?
+Computer scientists solve problems using technology, logic, and algorithms. They build systems that make life easier, automate tasks, and improve decision making. Their work powers everything from AI and cybersecurity to cloud computing and data analysis. This project connected to real world AI applications by showing how machines can learn from experience and make better decisions over time. Similar to how modern AI is used in robotics, gaming, and self driving cars.
+
+# How do I approach a problem as a computer scientist?
+I break problems into smaller, manageable parts and figure out the best tools or algorithms to solve them. In this project, I first reviewed the provided code, then focused on building the deep Q learning model and training the AI through trial and error. Debugging and testing were important in refining the model and improving performance.
+
+# What are my ethical responsibilities to the end user and the organization?
+As a developer, I need to make sure AI systems are fair, unbiased, and reliable. AI should not make unethical decisions or be easily exploited. Privacy and security are also important, especially when working with data driven AI models. In real world AI, ethical coding is important in areas like healthcare, finance, and law enforcement where biased AI decisions can have serious consequences.
+
 
 #
 # CS_255_System_Analysis_and_Design
